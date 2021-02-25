@@ -1,0 +1,9 @@
+# dependencies
+/node_modules
+#/app/config/keys.js
+
+
+# Merge Control
+app/config/db.config.js
+
+.DS_Store
